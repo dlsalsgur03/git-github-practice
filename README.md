@@ -24,3 +24,8 @@ GIT Tree Branch에 대해 공부할 것
 - [진로_상담_페이지](https://okky.kr/articles/376898)
 - [커멘드라인_인터페이스-셸-터미널](https://www.44bits.io/ko/keyword/command-line-interface-cli-shell-and-terminal)
 - [커멘드라인_사용법](https://www.44bits.io/ko/post/linux-and-mac-command-line-survival-guide-for-beginner)
+- https://okky.kr/
+- https://www.facebook.com/groups/128258327285805
+- https://www.facebook.com/groups/255834461424286
+
++) 강사님의 추천 책: 커리어스킬: 완벽한 개발자 인생 로드맵
