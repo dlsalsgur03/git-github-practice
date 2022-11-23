@@ -14,3 +14,6 @@
 - 'git push origin main': origin이라 불리는 저장소의 main브랜치로 현재 브랜치의 모든 커밋을 push(밀어넣기)
 
 - Process: add --> commit --> push
+
+- [Git_학습페이지](https://learngitbranching.js.org/?locale=ko)
+  - 혹은 생활코딩(내가 웹 공부할 때 배웠던 것) 추천
