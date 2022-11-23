@@ -18,6 +18,7 @@
 GIT Tree Branch에 대해 공부할 것
 
 ### 강사님의 PICK! 사이트
+- [Missing_Semester_CS](https://missing-semester-kr.github.io/)
 - [Git_학습페이지](https://learngitbranching.js.org/?locale=ko)
   - 혹은 생활코딩(내가 웹 공부할 때 배웠던 것) 추천
 - [구직_페이지](https://www.wanted.co.kr/)
