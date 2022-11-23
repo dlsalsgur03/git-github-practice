@@ -15,5 +15,8 @@
 
 - Process: add --> commit --> push
 
+### 강사님의 PICK! 사이트
 - [Git_학습페이지](https://learngitbranching.js.org/?locale=ko)
   - 혹은 생활코딩(내가 웹 공부할 때 배웠던 것) 추천
+- [구직_페이지](https://www.wanted.co.kr/)
+- [진로_상담_페이지](https://okky.kr/articles/376898)
