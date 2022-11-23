@@ -22,3 +22,5 @@ GIT Tree Branch에 대해 공부할 것
   - 혹은 생활코딩(내가 웹 공부할 때 배웠던 것) 추천
 - [구직_페이지](https://www.wanted.co.kr/)
 - [진로_상담_페이지](https://okky.kr/articles/376898)
+- [커멘드라인_인터페이스-셸-터미널](https://www.44bits.io/ko/keyword/command-line-interface-cli-shell-and-terminal)
+- [커멘드라인_사용법](https://www.44bits.io/ko/post/linux-and-mac-command-line-survival-guide-for-beginner)
