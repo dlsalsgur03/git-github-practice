@@ -28,4 +28,6 @@ GIT Tree Branch에 대해 공부할 것
 - https://www.facebook.com/groups/128258327285805
 - https://www.facebook.com/groups/255834461424286
 
-+) 강사님의 추천 책: 커리어스킬: 완벽한 개발자 인생 로드맵
+### 강사님의 추천 책
+- 커리어스킬: 완벽한 개발자 인생 로드맵
+- 소프트웨어 공학: 코드 컴플리트
